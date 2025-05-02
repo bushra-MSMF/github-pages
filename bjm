@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sustainable Toy Production</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Welcome to Our Sustainable Toy Production Project</h1>
+    <nav>
+      <ul>
+        <li><a href="#plastic-collection">Plastic Collection & Blockchain</a></li>
+        <li><a href="#ai-analysis">AI Plastic Analysis</a></li>
+        <li><a href="#toy-design">AI Toy Design & 3D Printing</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="plastic-collection">
+    <h2>Plastic Collection & Blockchain Integration</h2>
+    <p>Plastic waste is collected and tracked using blockchain technology. Each stage of the recycling process is recorded to enhance transparency and prevent fraud.</p>
+  </section>
+
+  <section id="ai-analysis">
+    <h2>AI-Powered Plastic Analysis</h2>
+    <p>AI-driven Convolutional Neural Networks (CNNs) analyze plastic for safety, ensuring only non-toxic materials are used in toy production.</p>
+  </section>
+
+  <section id="toy-design">
+    <h2>AI-Driven Toy Design & 3D Printing</h2>
+    <p>AI enhances the design process, creating innovative toys through 3D modeling and printing, ensuring high-quality production.</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Sustainable Toy Project. All rights reserved.</p>
+  </footer>
+</body>
+</html>
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #4CAF50;
+  color: white;
+  padding: 15px;
+  text-align: center;
+}
+
+header nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+header nav ul li {
+  display: inline;
+  margin: 0 10px;
+}
+
+header nav ul li a {
+  color: white;
+  text-decoration: none;
+}
+
+h1, h2 {
+  color: #333;
+}
+
+section {
+  padding: 20px;
+  margin: 20px 0;
+  border: 1px solid #ddd;
+}
+
+footer {
+  text-align: center;
+  background-color: #333;
+  color: white;
+  padding: 10px;
+}
+
